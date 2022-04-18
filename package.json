@@ -1,0 +1,42 @@
+{
+  "name": "app",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/design-system": "^0.0.1-alpha.79",
+    "@strapi/icons": "^0.0.1-alpha.79",
+    "@strapi/strapi": "^4.1.8",
+    "mysql": "2.18.1",
+    "n": "^8.1.0",
+    "stable": "^0.1.8",
+    "strapi-plugin-comments": "^2.0.9",
+    "strapi-plugin-navigation": "^2.0.8",
+    "styled-components": "^5.3.5",
+    "@strapi/admin": "4.1.8",
+    "@strapi/plugin-documentation": "4.1.8",
+    "@strapi/plugin-graphql": "4.1.8",
+    "@strapi/plugin-i18n": "4.1.8",
+    "@strapi/plugin-users-permissions": "4.1.8",
+    "@strapi/provider-email-mailgun": "4.1.8",
+    "@strapi/utils": "4.1.8"
+  },
+  "author": {
+    "name": "Betrand Ndobegang Atemkeng"
+  },
+  "strapi": {
+    "uuid": "3fbeaea2-4731-4267-b66a-726317fc85cd"
+  },
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

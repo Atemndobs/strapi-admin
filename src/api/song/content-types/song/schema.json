@@ -1,0 +1,87 @@
+{
+  "kind": "collectionType",
+  "collectionName": "songs",
+  "info": {
+    "singularName": "song",
+    "pluralName": "songs",
+    "displayName": "song",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "key": {
+      "type": "string"
+    },
+    "bpm": {
+      "type": "float"
+    },
+    "comment": {
+      "type": "string"
+    },
+    "danceability": {
+      "type": "float"
+    },
+    "happy": {
+      "type": "float"
+    },
+    "sad": {
+      "type": "float"
+    },
+    "relaxed": {
+      "type": "float"
+    },
+    "aggressiveness": {
+      "type": "float"
+    },
+    "energy": {
+      "type": "float"
+    },
+    "path": {
+      "type": "string"
+    },
+    "audio_track": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "scale": {
+      "type": "string"
+    },
+    "extension": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "analyzed": {
+      "type": "boolean"
+    },
+    "related_songs": {
+      "type": "string"
+    },
+    "genre": {
+      "type": "json"
+    }
+  }
+}
