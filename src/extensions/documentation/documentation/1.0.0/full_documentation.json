@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-04-18T11:45:03.108Z"
+    "x-generation-date": "2022-04-20T14:28:10.221Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -505,6 +505,12 @@
                                 "type": "string"
                               },
                               "genre": {},
+                              "image": {
+                                "type": "string"
+                              },
+                              "played": {
+                                "type": "boolean"
+                              },
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -1516,6 +1522,12 @@
                               "type": "string"
                             },
                             "genre": {},
+                            "image": {
+                              "type": "string"
+                            },
+                            "played": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2057,6 +2069,12 @@
                         "type": "string"
                       },
                       "genre": {},
+                      "image": {
+                        "type": "string"
+                      },
+                      "played": {
+                        "type": "boolean"
+                      },
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
@@ -2549,6 +2567,12 @@
                               "type": "string"
                             },
                             "genre": {},
+                            "image": {
+                              "type": "string"
+                            },
+                            "played": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -3469,6 +3493,12 @@
                               "type": "string"
                             },
                             "genre": {},
+                            "image": {
+                              "type": "string"
+                            },
+                            "played": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -4021,6 +4051,12 @@
                         "type": "string"
                       },
                       "genre": {},
+                      "image": {
+                        "type": "string"
+                      },
+                      "played": {
+                        "type": "boolean"
+                      },
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"

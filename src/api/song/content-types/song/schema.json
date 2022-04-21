@@ -82,6 +82,13 @@
     },
     "genre": {
       "type": "json"
+    },
+    "image": {
+      "type": "string"
+    },
+    "played": {
+      "type": "boolean",
+      "default": false
     }
   }
 }

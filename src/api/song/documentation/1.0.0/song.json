@@ -455,6 +455,12 @@
                                 "type": "string"
                               },
                               "genre": {},
+                              "image": {
+                                "type": "string"
+                              },
+                              "played": {
+                                "type": "boolean"
+                              },
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -1466,6 +1472,12 @@
                               "type": "string"
                             },
                             "genre": {},
+                            "image": {
+                              "type": "string"
+                            },
+                            "played": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2007,6 +2019,12 @@
                         "type": "string"
                       },
                       "genre": {},
+                      "image": {
+                        "type": "string"
+                      },
+                      "played": {
+                        "type": "boolean"
+                      },
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
@@ -2499,6 +2517,12 @@
                               "type": "string"
                             },
                             "genre": {},
+                            "image": {
+                              "type": "string"
+                            },
+                            "played": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -3419,6 +3443,12 @@
                               "type": "string"
                             },
                             "genre": {},
+                            "image": {
+                              "type": "string"
+                            },
+                            "played": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -3971,6 +4001,12 @@
                         "type": "string"
                       },
                       "genre": {},
+                      "image": {
+                        "type": "string"
+                      },
+                      "played": {
+                        "type": "boolean"
+                      },
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
