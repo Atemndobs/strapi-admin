@@ -461,6 +461,9 @@
                               "played": {
                                 "type": "boolean"
                               },
+                              "slug": {
+                                "type": "string"
+                              },
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -1478,6 +1481,9 @@
                             "played": {
                               "type": "boolean"
                             },
+                            "slug": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2025,6 +2031,9 @@
                       "played": {
                         "type": "boolean"
                       },
+                      "slug": {
+                        "type": "string"
+                      },
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
@@ -2522,6 +2531,9 @@
                             },
                             "played": {
                               "type": "boolean"
+                            },
+                            "slug": {
+                              "type": "string"
                             },
                             "createdAt": {
                               "type": "string",
@@ -3449,6 +3461,9 @@
                             "played": {
                               "type": "boolean"
                             },
+                            "slug": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -4006,6 +4021,9 @@
                       },
                       "played": {
                         "type": "boolean"
+                      },
+                      "slug": {
+                        "type": "string"
                       },
                       "createdAt": {
                         "type": "string",

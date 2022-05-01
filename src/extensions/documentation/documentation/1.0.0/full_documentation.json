@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-04-20T14:28:10.221Z"
+    "x-generation-date": "2022-04-29T07:28:50.570Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -510,6 +510,9 @@
                               },
                               "played": {
                                 "type": "boolean"
+                              },
+                              "slug": {
+                                "type": "string"
                               },
                               "createdAt": {
                                 "type": "string",
@@ -1528,6 +1531,9 @@
                             "played": {
                               "type": "boolean"
                             },
+                            "slug": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2075,6 +2081,9 @@
                       "played": {
                         "type": "boolean"
                       },
+                      "slug": {
+                        "type": "string"
+                      },
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
@@ -2572,6 +2581,9 @@
                             },
                             "played": {
                               "type": "boolean"
+                            },
+                            "slug": {
+                              "type": "string"
                             },
                             "createdAt": {
                               "type": "string",
@@ -3499,6 +3511,9 @@
                             "played": {
                               "type": "boolean"
                             },
+                            "slug": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -4056,6 +4071,9 @@
                       },
                       "played": {
                         "type": "boolean"
+                      },
+                      "slug": {
+                        "type": "string"
                       },
                       "createdAt": {
                         "type": "string",
